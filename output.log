@@ -1,5 +1,6 @@
-....
+.......................
 ----------------------------------------------------------------------
-Ran 4 tests in 0.000s
+Ran 23 tests in 0.002s
 
 OK
+<p><b>Bold text</b>Normal text<i>italic text</i>Normal text</p>
