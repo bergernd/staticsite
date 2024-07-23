@@ -78,4 +78,3 @@ def main():
 
     print(node.to_html())
 
-main()
